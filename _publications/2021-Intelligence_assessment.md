@@ -3,7 +3,7 @@ title: "Intelligence assessment of automated driving systems based on driving in
 collection: publications
 category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper proposes an innovative LQR-based control method for PEM fuel cells, which addresses the optimization challenge through precise oxygen excess ratio regulation, validated by comprehensive simulations.'
+excerpt: 'This paper proposes behavior index (BI) & scenario complexity (SC)-based ADS intelligence assessment, resolving AV evaluation challenges, quantified via DIQ, demonstrated in lane change simulations.'
 date: 2018-01-01
 venue: 'IFAC'
 
