@@ -29,17 +29,16 @@ Currently, I am pursuing my Ph.D. in Control Science and Engineering at Tongji U
 Project Experience:
 ======
 
-### National Key R&D Program Sub-project: Trustworthy and Explainable Mixed Human-Machine Intelligent Decision-Making and Online Evaluation for Autonomous Driving
-
+#### National Key R&D Program Sub-project: Trustworthy and Explainable Mixed Human-Machine Intelligent Decision-Making and Online Evaluation for Autonomous Driving (Sep. 2020 - Present)
 I am a key contributor to this project, focusing on the development of explainable autonomous driving decision algorithms. I have implemented feature attribution methods based on Shapley values to enhance the credibility of data-driven autonomous driving models.
 
-### National Key R&D Program Sub-project: Key Technologies for Self-Evolving Learning-Based Autonomous Driving Systems
+#### National Key R&D Program Sub-project: Key Technologies for Self-Evolving Learning-Based Autonomous Driving Systems (Sep. 2022 - Present)
 
  I am actively involved in developing explainable vehicle intention prediction algorithms. I have proposed a counterfactual model diagnosis approach guided by feature attribution to improve the reliability of data-driven vehicle intention models.
-###  National Key R&D Program Sub-project: Research on Key Technologies and Platform Development for High Power Density Fuel Cell Engines
+####  National Key R&D Program Sub-project: Research on Key Technologies and Platform Development for High Power Density Fuel Cell Engines (Jan. 2018 - Dec. 2020)
 
 As a participant, I was responsible for modeling and designing decoupling controllers for nonlinear fuel cell systems. I utilized feedback linearization techniques and implemented robust decoupling control for fuel cell air supply systems.
-### Dongfeng Motor Corporation Project: Robotaxi Autonomous Vehicle Technology Development
+#### Dongfeng Motor Corporation Project: Robotaxi Autonomous Vehicle Technology Development  (Dec. 2020 - Dec. 2021)
 
 I contributed to the development of autonomous driving system planning and control algorithms, establishing a virtual-real combined testing platform, and conducting real-vehicle experiments.
 
