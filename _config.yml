@@ -12,7 +12,7 @@ title                    : "Limeng / "
 title_separator          : "-"
 name                     : &name "Li Meng"
 description              : &description "personal description"
-url                      : limeng-1234.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://limeng-1234.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
