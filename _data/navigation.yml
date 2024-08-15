@@ -22,7 +22,9 @@ main:
     
   - title: "CV"
     url: /cv/
-  - title: "CV"
+
+
+  - title: "中文CV"
     url: /中文cv/
     
 #  - title: "Guide"
