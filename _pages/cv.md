@@ -37,12 +37,21 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Skill 1: Foreign Language Proficiency
+  * English: CET-6 (Score: 549)
+* Skill 2: Computer Skills
+
+  * Sub-skill 2.1 Programming Languages: Proficient in Python, Proficient in C++, Proficient in MATLAB
+  * Sub-skill 2.2 National Computer Rank Examination Passed Level 2 (C Language)
+* Skill 3: Professional Skills
+
+  * Sub-skill 3.1: Machine Learning and Deep Learning
+  Proficient in various machine learning methods, with a focus on deep learning and deep reinforcement learning under the PyTorch framework, as well as interpretability.
+  * Sub-skill 3.2: Autonomous Driving Development
+  Proficient in ROS and familiar with the development of autonomous driving decision-making, planning, and control systems.
+  Experienced in using autonomous driving open-source simulation software such as Carla and commercial software like Scanner and CarSim.
+  * Sub-skill 3.3: Control Algorithms
+  Proficient in developing and testing control algorithms such as Model Predictive Control (MPC), PID, and Active Disturbance Rejection Control (ADRC).
 
 Publications
 ======
