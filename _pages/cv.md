@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+You can also find my CV here [Li Meng's Curriculum Vitae](../assets/curriculum_vitae.pdf).
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
