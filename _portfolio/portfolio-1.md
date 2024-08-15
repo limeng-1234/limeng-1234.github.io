@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "美国之行：旧金山"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/旧金山/大通中心/大通中心.jpg'>"
 collection: portfolio
 ---
