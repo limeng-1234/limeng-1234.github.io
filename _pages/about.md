@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-I am currently a PhD candidate in Control Science and Engineering at Tongji University, expected to graduate in 2024 under the supervision of Professor Chen Hong. You can also find my CV here[Li Meng's Curriculum Vitae](../assets/curriculum_vitae.pdf).
+I am currently a PhD candidate in Control Science and Engineering at Tongji University, expected to graduate in 2024 under the supervision of Professor Chen Hong. You can also find my CV here [Li Meng's Curriculum Vitae](../assets/curriculum_vitae.pdf).
 
 Research Interests:
 ======
