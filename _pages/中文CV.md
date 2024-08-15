@@ -10,67 +10,64 @@ redirect_from:
 {% include base_path %}
 You can also find my CV here [Li Meng's Curriculum Vitae](../assets/curriculum_vitae.pdf).
 
-Education
-======
-* Ph.D. in Control Science and Engineering, Tongji University, expected 2024
-  * Advisor: Professor Chen Hong
-* M.S. in Control Science and Engineering, Jilin University, 2017-2020
-  * Advisor: Professor Gao Jinwu
-* B.S. in Electrical Engineering and Automation, Changchun University of Science and Technology, 2013-2017
+### 教育背景
 
-## Project Experience  
-  
-### National Key Research and Development Program Subproject: Trustworthy and Explainable Human-Machine Collaborative Intelligent Decision-Making and Online Evaluation for Autonomous Driving  
-**Duration**: September 2020 - Present  
-- **Role**: Key Contributor  
-- **Responsibilities**:  
-  - Developed explainable autonomous driving decision algorithms to enhance the credibility of data-driven autonomous driving models.  
-  - Established a feature attribution explanation method based on Shapley values from cooperative game theory to interpret model decision processes.  
-  - Integrated feature attribution methods with prior knowledge into model training to improve model performance.  
-  - Proposed a semantic-level model decision attribution explanation method for end-to-end autonomous driving decision models.  
-  - Introduced an expected integral discrete gradient method for model reliability verification, significantly improving computational efficiency.  
-  
-### National Key Research and Development Program Subproject: Key Technologies for Self-Evolving Learning-Based Autonomous Driving Systems  
-**Duration**: September 2022 - Present  
-- **Role**: Key Contributor  
-- **Responsibilities**:  
-  - Developed an explainable vehicle intention prediction algorithm to improve the reliability of data-driven vehicle intention models.  
-  - Proposed a counterfactual model diagnosis method guided by feature attribution to analyze model decision mechanisms and diagnose potential defects.  
-  - Applied the method to diagnose various machine learning-based lane change intention models such as XGBoost, LSTM, and Attention models.  
-  
-### National Key Research and Development Program Subproject: Research and Platform Development of Key Technologies for High-Power-Density Fuel Cell Engines  
-**Duration**: January 2018 - December 2020  
-- **Role**: Key Contributor  
-- **Responsibilities**:  
-  - Designed a decoupling control method based on feedback linearization for the highly nonlinear and coupled fuel cell air intake system.  
-  - Implemented an extended state observer to estimate model mismatches and noise disturbances, integrated into the feedback controller.  
-  - Built an experimental platform for the fuel cell air intake system and implemented robust decoupling control algorithms using DSpace real-time control.  
-  
-### Dongfeng Motor Corporation Project: Robotaxi Autonomous Vehicle Technology Development  
-**Duration**: December 2020 - December 2021  
-- **Role**: Key Contributor  
-- **Responsibilities**:  
-  - Developed autonomous driving system planning and control algorithms.  
-  - Established a virtual-real combined testing platform and conducted real-vehicle experiments.
-  
-Skills
-======
-* Skill 1: Foreign Language Proficiency
-  * English: CET-6 (Score: 549)
-* Skill 2: Computer Skills
+* 博士，控制科学与工程，同济大学，预计2024年完成
+  * 导师：陈宏教授
+* 硕士，控制科学与工程，吉林大学，2017-2020
+  * 导师：高进武教授
+* 学士，电气工程及自动化，长春理工大学，2013-2017
 
-  * Sub-skill 2.1 Programming Languages: Proficient in Python, Proficient in C++, Proficient in MATLAB
-  * Sub-skill 2.2 National Computer Rank Examination Passed Level 2 (C Language)
-* Skill 3: Professional Skills
+## 项目经验
 
-  * Sub-skill 3.1: Machine Learning and Deep Learning
-  Proficient in various machine learning methods, with a focus on deep learning and deep reinforcement learning under the PyTorch framework, as well as interpretability.
-  * Sub-skill 3.2: Autonomous Driving Development
-  Proficient in ROS and familiar with the development of autonomous driving decision-making, planning, and control systems.
-  Experienced in using autonomous driving open-source simulation software such as Carla and commercial software like Scanner and CarSim.
-  * Sub-skill 3.3: Control Algorithms
-  Proficient in developing and testing control algorithms such as Model Predictive Control (MPC), PID, and Active Disturbance Rejection Control (ADRC).
+### 国家重点研发计划子课题：可信可解释的智能人机协作决策与自主驾驶在线评估
+**时间**：2020年9月 - 现在  
+- **角色**：核心贡献者  
+- **职责**：
+  - 开发了可解释的自主驾驶决策算法，增强数据驱动的自主驾驶模型的可信度。
+  - 基于合作博弈论的Shapley值建立了特征归因解释方法，以解释模型决策过程。
+  - 将特征归因方法与先验知识集成到模型训练中，以提高模型性能。
+  - 提出了用于端到端自主驾驶决策模型的语义级决策归因解释方法。
+  - 引入期望积分离散梯度方法进行模型可靠性验证，显著提高了计算效率。
 
+### 国家重点研发计划子课题：自演化学习型自主驾驶系统关键技术
+**时间**：2022年9月 - 现在  
+- **角色**：核心贡献者  
+- **职责**：
+  - 开发了可解释的车辆意图预测算法，以提高数据驱动的车辆意图模型的可靠性。
+  - 提出了基于特征归因的反事实模型诊断方法，分析模型决策机制并诊断潜在缺陷。
+  - 将该方法应用于诊断多种机器学习基础的变道意图模型，如XGBoost、LSTM和Attention模型。
+
+### 国家重点研发计划子课题：高功率密度燃料电池发动机关键技术研究与平台开发
+**时间**：2018年1月 - 2020年12月  
+- **角色**：核心贡献者  
+- **职责**：
+  - 设计了基于反馈线性化的解耦控制方法，用于高度非线性和耦合的燃料电池进气系统。
+  - 实施了扩展状态观测器以估计模型失配和噪声干扰，并将其集成到反馈控制器中。
+  - 建立了燃料电池进气系统的实验平台，并使用DSpace实时控制实现了鲁棒解耦控制算法。
+
+### 东风汽车公司项目：Robotaxi自主驾驶技术开发
+**时间**：2020年12月 - 2021年12月  
+- **角色**：核心贡献者  
+- **职责**：
+  - 开发了自主驾驶系统的规划和控制算法。
+  - 建立了虚拟与实际结合的测试平台，并进行了实车实验。
+
+## 技能
+* 技能 1: 外语能力
+  * 英语：CET-6（成绩：549）
+* 技能 2: 计算机技能
+  * 子技能 2.1 编程语言：精通Python，精通C++，精通MATLAB
+  * 子技能 2.2 国家计算机等级考试通过二级（C语言）
+* 技能 3: 专业技能
+  * 子技能 3.1: 机器学习与深度学习
+    精通各种机器学习方法，重点关注PyTorch框架下的深度学习和深度强化学习及其可解释性。
+  * 子技能 3.2: 自主驾驶开发
+    精通ROS，并熟悉自主驾驶决策、规划和控制系统的开发。
+    经验丰富，使用过自主驾驶开源仿真软件如Carla和商业软件如Scanner和CarSim。
+  * 子技能 3.3: 控制算法
+    精通开发和测试控制算法，如模型预测控制（MPC）、PID控制和主动干扰抑制控制（ADRC）。
+  
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
