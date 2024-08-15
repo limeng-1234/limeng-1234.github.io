@@ -12,4 +12,3 @@ paperurl: 'http://limeng-1234.github.io/files/2023-Explaining_a_machine.pdf'
 citation: 'Li M, Wang Y, Sun H, et al. Explaining a machine-learning lane change model with maximum entropy Shapley values[J]. IEEE Transactions on Intelligent Vehicles, 2023, 8(6): 3620-3628.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
