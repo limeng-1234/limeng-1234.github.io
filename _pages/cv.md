@@ -18,22 +18,40 @@ Education
   * Advisor: Professor Gao Jinwu
 * B.S. in Electrical Engineering and Automation, Changchun University of Science and Technology, 2013-2017
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Project Experience  
+  
+### National Key Research and Development Program Subproject: Trustworthy and Explainable Human-Machine Collaborative Intelligent Decision-Making and Online Evaluation for Autonomous Driving  
+**Duration**: September 2020 - Present  
+- **Role**: Key Contributor  
+- **Responsibilities**:  
+  - Developed explainable autonomous driving decision algorithms to enhance the credibility of data-driven autonomous driving models.  
+  - Established a feature attribution explanation method based on Shapley values from cooperative game theory to interpret model decision processes.  
+  - Integrated feature attribution methods with prior knowledge into model training to improve model performance.  
+  - Proposed a semantic-level model decision attribution explanation method for end-to-end autonomous driving decision models.  
+  - Introduced an expected integral discrete gradient method for model reliability verification, significantly improving computational efficiency.  
+  
+### National Key Research and Development Program Subproject: Key Technologies for Self-Evolving Learning-Based Autonomous Driving Systems  
+**Duration**: September 2022 - Present  
+- **Role**: Key Contributor  
+- **Responsibilities**:  
+  - Developed an explainable vehicle intention prediction algorithm to improve the reliability of data-driven vehicle intention models.  
+  - Proposed a counterfactual model diagnosis method guided by feature attribution to analyze model decision mechanisms and diagnose potential defects.  
+  - Applied the method to diagnose various machine learning-based lane change intention models such as XGBoost, LSTM, and Attention models.  
+  
+### National Key Research and Development Program Subproject: Research and Platform Development of Key Technologies for High-Power-Density Fuel Cell Engines  
+**Duration**: January 2018 - December 2020  
+- **Role**: Key Contributor  
+- **Responsibilities**:  
+  - Designed a decoupling control method based on feedback linearization for the highly nonlinear and coupled fuel cell air intake system.  
+  - Implemented an extended state observer to estimate model mismatches and noise disturbances, integrated into the feedback controller.  
+  - Built an experimental platform for the fuel cell air intake system and implemented robust decoupling control algorithms using DSpace real-time control.  
+  
+### Dongfeng Motor Corporation Project: Robotaxi Autonomous Vehicle Technology Development  
+**Duration**: December 2020 - December 2021  
+- **Role**: Key Contributor  
+- **Responsibilities**:  
+  - Developed autonomous driving system planning and control algorithms.  
+  - Established a virtual-real combined testing platform and conducted real-vehicle experiments.
   
 Skills
 ======
