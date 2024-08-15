@@ -9,11 +9,14 @@ redirect_from:
 
 {% include base_path %}
 You can also find my CV here [Li Meng's Curriculum Vitae](../assets/curriculum_vitae.pdf).
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Control Science and Engineering, Tongji University, expected 2024
+  * Advisor: Professor Chen Hong
+* M.S. in Control Science and Engineering, Jilin University, 2017-2020
+  * Advisor: Professor Gao Jinwu
+* B.S. in Electrical Engineering and Automation, Changchun University of Science and Technology, 2013-2017
 
 Work experience
 ======
