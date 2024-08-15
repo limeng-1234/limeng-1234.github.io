@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-I am currently a PhD candidate in Control Science and Engineering at Tongji University, expected to graduate in 2024 under the supervision of Professor Chen Hong. [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently a PhD candidate in Control Science and Engineering at Tongji University, expected to graduate in 2024 under the supervision of Professor Chen Hong. You can also find my CV here[Li Meng's Curriculum Vitae](../assets/curriculum_vitae.pdf).
 
 Research Interests:
 ======
@@ -28,15 +28,24 @@ Currently, I am pursuing my Ph.D. in Control Science and Engineering at Tongji U
 
 Project Experience:
 ======
-National Key R&D Program Sub-project: Trustworthy and Explainable Mixed Human-Machine Intelligent Decision-Making and Online Evaluation for Autonomous Driving: I am a key contributor to this project, focusing on the development of explainable autonomous driving decision algorithms. I have implemented feature attribution methods based on Shapley values to enhance the credibility of data-driven autonomous driving models.
-National Key R&D Program Sub-project: Key Technologies for Self-Evolving Learning-Based Autonomous Driving Systems: I am actively involved in developing explainable vehicle intention prediction algorithms. I have proposed a counterfactual model diagnosis approach guided by feature attribution to improve the reliability of data-driven vehicle intention models.
-National Key R&D Program Sub-project: Research on Key Technologies and Platform Development for High Power Density Fuel Cell Engines: As a participant, I was responsible for modeling and designing decoupling controllers for nonlinear fuel cell systems. I utilized feedback linearization techniques and implemented robust decoupling control for fuel cell air supply systems.
-Dongfeng Motor Corporation Project: Robotaxi Autonomous Vehicle Technology Development: I contributed to the development of autonomous driving system planning and control algorithms, establishing a virtual-real combined testing platform, and conducting real-vehicle experiments.
-Publication Record:
 
-Paper Publication:
+### National Key R&D Program Sub-project: Trustworthy and Explainable Mixed Human-Machine Intelligent Decision-Making and Online Evaluation for Autonomous Driving
+
+I am a key contributor to this project, focusing on the development of explainable autonomous driving decision algorithms. I have implemented feature attribution methods based on Shapley values to enhance the credibility of data-driven autonomous driving models.
+
+### National Key R&D Program Sub-project: Key Technologies for Self-Evolving Learning-Based Autonomous Driving Systems
+
+ I am actively involved in developing explainable vehicle intention prediction algorithms. I have proposed a counterfactual model diagnosis approach guided by feature attribution to improve the reliability of data-driven vehicle intention models.
+###  National Key R&D Program Sub-project: Research on Key Technologies and Platform Development for High Power Density Fuel Cell Engines
+
+As a participant, I was responsible for modeling and designing decoupling controllers for nonlinear fuel cell systems. I utilized feedback linearization techniques and implemented robust decoupling control for fuel cell air supply systems.
+### Dongfeng Motor Corporation Project: Robotaxi Autonomous Vehicle Technology Development
+
+I contributed to the development of autonomous driving system planning and control algorithms, establishing a virtual-real combined testing platform, and conducting real-vehicle experiments.
+
+Publication Record
 ======
-I have published 6 SCI papers and 4 EI papers as the first author, with several others as co-authors. Some notable publications include:
+I have published 6 SCI papers and 4 EI papers. Some notable publications include:
 
 * "Explaining a Machine-Learning Lane Change Model With Maximum Entropy Shapley Values" in IEEE Transactions on Intelligent Vehicles.
 * "SVCE: Shapley Value Guided Counterfactual Explanation for Machine Learning-Based Autonomous Driving" in IEEE * Transactions on Intelligent Transportation Systems.
