@@ -1,6 +1,6 @@
 ---
 title: "美国之行：旧金山"
-<br/><img src='/images/旧金山/大通中心/大通中心.jpg'>"
+excerpt: "<br/><img src='/images/旧金山/大通中心/大通中心.jpg'>"
 collection: portfolio
 ---
 ## 中转站：旧金山
