@@ -3,7 +3,7 @@ title: "Control of PEMFC Air Supply Subsystem Using Triple-Step Method"
 collection: publications
 category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper proposes behavior index (BI) & scenario complexity (SC)-based ADS intelligence assessment, resolving AV evaluation challenges, quantified via DIQ, demonstrated in lane change simulations.'
+excerpt: 'The Triple-Step Method aims to provide robust and precise control over the complex, nonlinear and highly coupled processes present in the PEMFC air supply system.'
 date: 2018-01-01
 venue: 'IFAC'
 
