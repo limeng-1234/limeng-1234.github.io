@@ -21,7 +21,7 @@ repository               : "limeng-1234/limeng-1234.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_with_vango.png"
+  avatar           : "profile_with_vango.jpg"
   name             : "Li Meng"
   pronouns         : # example: "she/her"  
   bio              : "Tongji University"
