@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "CV"
-permalink: /中文cv/
+title: "简历"
+permalink: /中文简历/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
-You can also find my CV here [Li Meng's Curriculum Vitae](../assets/curriculum_vitae.pdf).
+你也可以在[Li Meng's Curriculum Vitae](../assets/curriculum_vitae.pdf)找到我的简历.
 
 ### 教育背景
 
