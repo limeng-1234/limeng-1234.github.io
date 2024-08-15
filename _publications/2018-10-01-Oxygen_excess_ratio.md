@@ -8,7 +8,7 @@ date: 2018-01-01
 venue: 'IFAC'
 
 [//]: # (slidesurl: 'http://academicpages.github.io/files/slides1.pdf')
-paperurl: 'http://academicpages.github.io/files/Oxygen_excess_ratio.pdf'
+paperurl: 'http://limeng-1234.github.io/files/Oxygen_excess_ratio.pdf'
 citation: 'Li M, Lu J, Hu Y, et al. Oxygen excess ratio controller design of PEM fuel cell[J]. IFAC-PapersOnLine, 2018, 51(31): 493-498.'
 ---
 

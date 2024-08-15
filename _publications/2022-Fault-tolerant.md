@@ -7,8 +7,8 @@ excerpt: 'This paper proposes a disturbance-observer-based multi-output feedback
 date: 2022-01-01
 venue: 'International Journal of Hydrogen Energy'
 
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/air_flow_rate.pdf'
+[//]: # (slidesurl: 'http://limeng-1234.github.io/files/slides1.pdf')
+paperurl: 'http://limeng-1234.github.io/files/air_flow_rate.pdf'
 citation: 'Wang Y, Li M, Gao J, et al. Fault-tolerant control through dynamic surface triple-step approach for proton exchange membrane fuel cell air supply systems[J]. International Journal of Hydrogen Energy, 2022, 47(3): 1804-1819.'
 ---
 
