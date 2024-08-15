@@ -13,9 +13,9 @@ You can also find my CV here [Li Meng's Curriculum Vitae](../assets/curriculum_v
 Education
 ======
 * Ph.D. in Control Science and Engineering, Tongji University, expected 2024
-  * Advisor: Professor Chen Hong
+  * Advisor: [Professor Chen Hong](https://see.tongji.edu.cn/info/1376/10290.htm)
 * M.S. in Control Science and Engineering, Jilin University, 2017-2020
-  * Advisor: Professor Gao Jinwu
+  * Advisor: [Professor Gao Jinwu](http://dce.jlu.edu.cn/info/1182/5274.htm)
 * B.S. in Electrical Engineering and Automation, Changchun University of Science and Technology, 2013-2017
 
 ## Project Experience  

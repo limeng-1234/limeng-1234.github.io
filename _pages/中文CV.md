@@ -13,9 +13,9 @@ You can also find my CV here [Li Meng's Curriculum Vitae](../assets/curriculum_v
 ### 教育背景
 
 * 博士，控制科学与工程，同济大学，预计2024年完成
-  * 导师：陈宏教授
+  * 导师：[陈虹教授](https://see.tongji.edu.cn/info/1376/10290.htm)
 * 硕士，控制科学与工程，吉林大学，2017-2020
-  * 导师：高进武教授
+  * 导师：[高金武教授](http://dce.jlu.edu.cn/info/1182/5274.htm)
 * 学士，电气工程及自动化，长春理工大学，2013-2017
 
 ## 项目经验
