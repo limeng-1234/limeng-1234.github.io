@@ -16,7 +16,7 @@ Here is the translated version of your content into American English:
 ### Education
 
 * Ph.D., Control Science and Engineering, Tongji University, 2020 - Present
-  * Advisor: [Professor Chen Hong](https://see.tongji.edu.cn/info/1376/10290.htm)
+  * Advisor: [Professor Chen Hong](https://see.tongji.edu.cn/info/1376/10290.htm) &nbs Co-advisor：[Huang Yanjun](https://auto.tongji.edu.cn/info/1146/8712.htm)
 * Master's, Control Science and Engineering, Jilin University, 2017 - 2020
   * Advisor: [Professor Gao Jinwu](http://dce.jlu.edu.cn/info/1182/5274.htm)
 * Bachelor's, Electrical Engineering and Automation, Changchun University of Science and Technology, 2013 - 2017
