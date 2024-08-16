@@ -14,41 +14,68 @@ redirect_from:
 
 I am currently a PhD candidate in Control Science and Engineering at Tongji University, expected to graduate in 2024 under the supervision of Professor Chen Hong. You can also find my CV here [Li Meng's Curriculum Vitae](../assets/curriculum_vitae.pdf).
 
-Research Interests
-======
-My research focuses on explainable methods for learning-based autonomous driving decisions and end-to-end autonomous driving systems.
+### Education
 
-Education Background
-======
-I obtained my Bachelor's degree in Electrical Engineering and Automation from Changchun University of Science and Technology, from 2013 to 2017.
-Subsequently, I pursued my Master's degree in Control Science and Engineering at Jilin University, from 2017 to 2020, under the guidance of Professor Gao Jinwu.
-Currently, I am pursuing my Ph.D. in Control Science and Engineering at Tongji University, since 2020.
+* Ph.D., Control Science and Engineering, Tongji University, 2020 - Present
+  * Advisor: [Professor Chen Hong](https://see.tongji.edu.cn/info/1376/10290.htm)
+* Master's, Control Science and Engineering, Jilin University, 2017 - 2020
+  * Advisor: [Professor Gao Jinwu](http://dce.jlu.edu.cn/info/1182/5274.htm)
+* Bachelor's, Electrical Engineering and Automation, Changchun University of Science and Technology, 2013 - 2017
+
+### Research Interests
+Interpretability in Learning-Based Autonomous Driving Decision-Making
+
+<img src="https://github.com/limeng-1234/limeng-1234.github.io/raw/master/assets/研究内容架构.png" width="800" height="auto">
 
 
+## Project Experience
 
-Project Experience
-======
+### National Key R&D Program: Safe and Trustworthy Human-AI Cooperative Driving System in Open Environments
+**Time**: September 2020 - Present  
+- **Role**: Core Contributor  
+- **Responsibilities**: Development of Explainable Autonomous Driving Decision-Making Algorithms
+  - **Feature Attribution Explanation for Autonomous Driving Decisions**: Developed a feature attribution explanation method based on Shapley values in cooperative game theory, incorporating feature attribution with prior knowledge into the autonomous driving decision-making model training, significantly enhancing model performance. Experimental results show that the improved model outperforms the original model by up to 10% in accuracy when noise variance exceeds 0.26.
+  
+  - **Counterfactual Explanation for Autonomous Driving Decisions**: Proposed a Shapley-value-guided counterfactual explanation optimization method, using Shapley values to quantify feature contributions and optimize counterfactual explanations with targeted feature adjustments. Results indicate that prediction consistency and bias detection improved by 25% and 60%, respectively, demonstrating that the proposed method significantly enhances users' understanding of the model’s decision-making process.
 
-### National Key R&D Program Sub-project: Trustworthy and Explainable Mixed Human-Machine Intelligent Decision-Making and Online Evaluation for Autonomous Driving (Sep. 2020 - Present)
-I am a key contributor to this project, focusing on the development of explainable autonomous driving decision algorithms. I have implemented feature attribution methods based on Shapley values to enhance the credibility of data-driven autonomous driving models.
+### National Key R&D Program: Key Technologies for Self-Evolving Learning-Based Autonomous Driving Systems
+**Time**: September 2022 - Present  
+- **Role**: Major Contributor  
+- **Responsibilities**: Development of Explainable End-to-End Autonomous Driving Decision-Making Algorithms
+  - **End-to-End Autonomous Driving Decision-Making Modeling**: Utilized [Dense Convolutional Networks](https://openaccess.thecvf.com/content_cvpr_2017/html/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.html) and the [BDD-OIA Dataset](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_Explainable_Object-Induced_Action_Decision_for_Autonomous_Vehicles_CVPR_2020_paper.html) as model structure and data foundation, designing a cross-entropy loss function for model gradient updates.
+  - **Semantic-Level Attribution Explanation for End-to-End Decision-Making**: Proposed a semantic-level model decision attribution explanation method, leveraging the deep learning vision model Segment Anything to segment semantic entities in images, thereby constructing a semantic Shapley value model. Evaluated each semantic entity’s contribution to the end-to-end decision-making model, aiding human understanding of the model’s decision process at the semantic level.
+  - **Semantic-Level Counterfactual Explanation for End-to-End Decisions**: Based on the semantic Shapley value model and image generation networks, optimized key semantics to generate more representative counterfactual explanation samples.
+  
+### National Key R&D Program: Key Technologies Research and Platform Development for High-Power Density Fuel Cell Engines
+**Time**: January 2018 - December 2020  
+- **Role**: Major Contributor  
+- **Responsibilities**: Modeling and Decoupling Controller Design for Fuel Cell Nonlinear Systems
+  - **Decoupling Control Method Design**: Designed a decoupling control method based on feedback linearization for highly nonlinear and coupled fuel cell intake systems.
+  - **State Observation Method Development**: Developed an extended state observer to estimate model mismatch and noise interference, integrating it into the feedback controller.
+  - **Control Experiment Platform Establishment**: Established an experimental platform for the fuel cell intake system and deployed control algorithms using a rapid prototyping system (DSpace) to achieve decoupling control of the intake system.
 
-### National Key R&D Program Sub-project: Key Technologies for Self-Evolving Learning-Based Autonomous Driving Systems (Sep. 2022 - Present)
-
- I am actively involved in developing explainable vehicle intention prediction algorithms. I have proposed a counterfactual model diagnosis approach guided by feature attribution to improve the reliability of data-driven vehicle intention models.
-###  National Key R&D Program Sub-project: Research on Key Technologies and Platform Development for High Power Density Fuel Cell Engines (Jan. 2018 - Dec. 2020)
-
-As a participant, I was responsible for modeling and designing decoupling controllers for nonlinear fuel cell systems. I utilized feedback linearization techniques and implemented robust decoupling control for fuel cell air supply systems.
-### Dongfeng Motor Corporation Project: Robotaxi Autonomous Vehicle Technology Development  (Dec. 2020 - Dec. 2021)
-
-I contributed to the development of autonomous driving system planning and control algorithms, establishing a virtual-real combined testing platform, and conducting real-vehicle experiments.
+### Dongfeng Motor Corporation Project: Robotaxi Autonomous Driving Technology Development
+**Time**: December 2020 - December 2021  
+- **Role**: Core Contributor  
+- **Responsibilities**: Development and Deployment of Autonomous Driving Planning Algorithms
+  - Developed planning and control algorithms for the autonomous driving system.
+  - Established a combined virtual and real testing platform for on-road experiments.
 
 Publication Record
 ======
 I have published 6 SCI papers and 4 EI papers. Some notable publications include:
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
-* "Explaining a Machine-Learning Lane Change Model With Maximum Entropy Shapley Values" in IEEE Transactions on Intelligent Vehicles.
-* "SVCE: Shapley Value Guided Counterfactual Explanation for Machine Learning-Based Autonomous Driving" in IEEE * Transactions on Intelligent Transportation Systems.
-* "Expected Integral Discrete Gradient: A Case of Diagnosing Autonomous Driving Model" in IEEE Transactions on Vehicular Technology.
-* "Air flow rate and pressure control approach for the air supply subsystems in PEMFCs" in ISA transactions.
-* "Challenges and developments of automotive fuel cell hybrid power system and control" in Science China Information Sciences.
-* "Fault-tolerant control through dynamic surface triple-step approach for proton exchange membrane fuel cell air supply systems" in International Journal of Hydrogen Energy.
+[//]: # (* "Explaining a Machine-Learning Lane Change Model With Maximum Entropy Shapley Values" in IEEE Transactions on Intelligent Vehicles.)
+
+[//]: # (* "SVCE: Shapley Value Guided Counterfactual Explanation for Machine Learning-Based Autonomous Driving" in IEEE * Transactions on Intelligent Transportation Systems.)
+
+[//]: # (* "Expected Integral Discrete Gradient: A Case of Diagnosing Autonomous Driving Model" in IEEE Transactions on Vehicular Technology.)
+
+[//]: # (* "Air flow rate and pressure control approach for the air supply subsystems in PEMFCs" in ISA transactions.)
+
+[//]: # (* "Challenges and developments of automotive fuel cell hybrid power system and control" in Science China Information Sciences.)
+
+[//]: # (* "Fault-tolerant control through dynamic surface triple-step approach for proton exchange membrane fuel cell air supply systems" in International Journal of Hydrogen Energy.)
