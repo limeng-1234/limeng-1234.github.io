@@ -67,15 +67,16 @@ I have published 6 SCI papers and 4 EI papers. Some notable publications include
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+<!--
+* "Explaining a Machine-Learning Lane Change Model With Maximum Entropy Shapley Values" in IEEE Transactions on Intelligent Vehicles.
 
-[//]: # (* "Explaining a Machine-Learning Lane Change Model With Maximum Entropy Shapley Values" in IEEE Transactions on Intelligent Vehicles.)
+* "SVCE: Shapley Value Guided Counterfactual Explanation for Machine Learning-Based Autonomous Driving" in IEEE * Transactions on Intelligent Transportation Systems.
 
-[//]: # (* "SVCE: Shapley Value Guided Counterfactual Explanation for Machine Learning-Based Autonomous Driving" in IEEE * Transactions on Intelligent Transportation Systems.)
+* "Expected Integral Discrete Gradient: A Case of Diagnosing Autonomous Driving Model" in IEEE Transactions on Vehicular Technology.
 
-[//]: # (* "Expected Integral Discrete Gradient: A Case of Diagnosing Autonomous Driving Model" in IEEE Transactions on Vehicular Technology.)
+* "Air flow rate and pressure control approach for the air supply subsystems in PEMFCs" in ISA transactions.
 
-[//]: # (* "Air flow rate and pressure control approach for the air supply subsystems in PEMFCs" in ISA transactions.)
+* "Challenges and developments of automotive fuel cell hybrid power system and control" in Science China Information Sciences.
 
-[//]: # (* "Challenges and developments of automotive fuel cell hybrid power system and control" in Science China Information Sciences.)
-
-[//]: # (* "Fault-tolerant control through dynamic surface triple-step approach for proton exchange membrane fuel cell air supply systems" in International Journal of Hydrogen Energy.)
+* "Fault-tolerant control through dynamic surface triple-step approach for proton exchange membrane fuel cell air supply systems" in International Journal of Hydrogen Energy.
+-->
