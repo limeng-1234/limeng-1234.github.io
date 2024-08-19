@@ -63,7 +63,6 @@ Interpretability in Learning-Based Autonomous Driving Decision-Making
 
 [Virtual and Real Testing Platform](https://github.com/limeng-1234/Explanation-system/assets/76480875/aeb61c9a-cab4-4aef-8cbb-1c36a603cd94)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1Ib9VXU_9_E" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-k2vmTqKoIg" frameborder="0" allowfullscreen></iframe>
 
