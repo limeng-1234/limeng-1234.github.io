@@ -2,7 +2,7 @@
 title: "Control of PEMFC Air Supply Subsystem Using Triple-Step Method"
 collection: publications
 category: conferences
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2019-Control_PEMFC
 excerpt: 'The Triple-Step Method aims to provide robust and precise control over the complex, nonlinear and highly coupled processes present in the PEMFC air supply system.'
 date: 2018-03-01
 venue: 'IFAC'
