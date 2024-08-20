@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-Explaining_a_machine
 excerpt: 'This paper proposes a Maximum Entropy-based SHAP Method for Explaining Lane Change Decisions in Autonomous Vehicles, Solving the Black-Box Nature of AI Techniques.'
-date: 2023-01-01
+date: 2023-04-01
 venue: 'IEEE Transactions on Intelligent Vehicles'
 
 [//]: # (slidesurl: 'http://limeng-1234.github.io/files/slides1.pdf')
