@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper proposes an innovative LQR-based control method for PEM fuel cells, which addresses the optimization challenge through precise oxygen excess ratio regulation, validated by comprehensive simulations.'
-date: 2018-01-01
+date: 2018-02-01
 venue: 'IFAC'
 
 [//]: # (slidesurl: 'http://academicpages.github.io/files/slides1.pdf')
