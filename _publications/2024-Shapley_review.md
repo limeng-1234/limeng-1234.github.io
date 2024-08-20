@@ -2,7 +2,7 @@
 title: "Shapley value: from cooperative game to explainable artificial intelligence"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2024-Shapley_review
 excerpt: 'This article provides a comprehensive overview of Shapley value-based attribution methods for explaining machine learning (ML) models.'
 date: 2024-01-01
 venue: 'Autonomous Intelligent Systems'

@@ -2,7 +2,7 @@
 title: "An interpretation framework for autonomous vehicles decision-making via SHAP and RF"
 collection: publications
 category: conferences
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-An_interpretation
 excerpt: 'This paper proposes a method that combines SHAP and RF to address the transparency issue in deep reinforcement learning (DRL) for autonomous vehicle decision-making. By implementing this approach, it aims to achieve safe and efficient driving decisions while also providing explanations for the behavioral outcomes of these decisions.'
 date: 2018-01-01
 venue: 'IFAC'
