@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2022-air_flow_rate
 excerpt: 'This paper proposes a disturbance-observer-based multi-output feedback control strategy for simultaneously controlling the air flow rate and cathode pressure in PEMFCs.'
-date: 2022-01-01
+date: 2022-03-01
 venue: 'ISA transactions'
 
 [//]: # (slidesurl: 'http://limeng-1234.github.io/files/slides1.pdf')
