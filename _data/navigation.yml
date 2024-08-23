@@ -26,6 +26,8 @@ main:
 
   - title: "中文简历"
     url: /中文简历/
-    
+
+  - title: "自动驾驶工程经验"
+    url: /自动驾驶工程经验/
 #  - title: "Guide"
 #    url: /markdown/
